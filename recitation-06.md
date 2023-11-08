@@ -1,6 +1,6 @@
 # CMPS 2200  Recitation 06
 
-Today we'll learn more about dynamic programming using the classic problem of computing **Fibonacci Numbers**. As you know, for the $n$th Fibonacci number $F_n=F_{n-1} + F_{n-2}$. Here are the first 11 values:
+Today we'll learn more about dynamic programming using the classic problem of computing **Fibonacci Numbers**. As you know, for the $n$-th Fibonacci number $F_n=F_{n-1} + F_{n-2}$. Here are the first 11 values:
 
 |0|1|2|3|4|5|6|7|8|9|10|
 |-|-|-|-|-|-|-|-|-|-|- |
